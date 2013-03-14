@@ -22,13 +22,51 @@ In this training course, you'll use an actual Ruby/Rails application and learn:
 
 ## What's In a Class?
 
-This is not "sit back and watch slides" -- all Jumpstart Lab courses are hands-on. We work with real applications and you'll implement these tools and techniques yourself. By the end of the week, have real experience, real skills, and real code to reference.
+This is not "sit back and watch slides" -- all Jumpstart Lab courses are hands-on. We work with real applications and you'll implement these tools and techniques yourself. By the end of the week, you'll have real experience, real skills, and real code to reference.
 
 ## Who's this for?
 
 This course is built for teams of experienced developers who feel comfortable with Ruby, Rails, and the fundamentals of deploying web applications.
 
+## Schedule
+
 Our instructors come to you and teach five full days 9AM to 4PM. We can accomodate anywhere from 4 to 24 attendees.
+
+### Monday - Understanding the Platform
+
+* Setup for experimentation
+* Understanding Heroku's architecture
+* How deployment works
+* Automatically scaling dynos
+* Understanding where applications go wrong
+
+### Tuesday - Customizing Your Deployment
+
+* Managing application configuration and credentials
+* Configuration-level customizations
+* Creating custom buildpacks
+* Executing arbitrary jobs on deploy
+* Continuous Integration & Continuous Deployment
+
+### Wednesday - Designing Your Application for Scale
+
+* Architecting a system of applications
+* Aggregating logs across multiple coordinating apps
+* Extracting background jobs
+* Extracting micro-applications
+
+### Thursday - When Things Go Wrong
+
+* Automating backups to S3
+* Monitoring application health
+* Automating disaster response
+* Rolling back deployment
+
+### Friday - Your Applications
+
+* Big picture Q&A
+* Dive into your code/application together
+* What if we want to...?
 
 ## Pricing
 
