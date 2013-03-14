@@ -22,11 +22,11 @@ This is not "sit back and watch slides" -- all Jumpstart Lab courses are hands-o
 
 ## Who's this for?
 
-This course is built for teams of experienced developers who feel comfortable with Ruby, Rails, and the fundamentals of deploying web applications.
+This course is built for teams of experienced developers who are comfortable with Ruby, Rails, and the fundamentals of deploying web applications.
 
 ## Schedule
 
-Our instructors come to you and teach five full days 9AM to 4PM. We can accomodate anywhere from 4 to 24 attendees.
+Our instructors come to you and teach five days 9AM to 4PM. We can accomodate from 4 to 24 attendees.
 
 ### Monday - Understanding the Platform
 
@@ -69,6 +69,10 @@ Our instructors come to you and teach five full days 9AM to 4PM. We can accomoda
 Pricing for this course is $20K to cover the first six attendees, $1300 for each additional attendee over six, and $1500 per instructor for travel. Classes of 12 or fewer are run by one instructor, 12-24 have two instructors.
 
 (( Contact Us to Schedule a Class at Your Company big button ))
+
+## Public Class
+
+We're measuring interest in offering this as a public, one-person-buys-one-ticket public class. If you're interested, please [send us an email](mailto:professional_heroku@jumpstartlab.com) and tell us where you're located.
 
 ## Who We Are
 
