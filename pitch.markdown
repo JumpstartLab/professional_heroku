@@ -8,19 +8,11 @@ In this course we'll build your understandings of the platform architecture, exp
 
 In this training course, you'll use an actual Ruby/Rails application and study:
 
-* How Heroku's architecture affects your application
-* The roles of dynos and background workers
-* Keeping private credentials private
-* Configuring your application for alternative web servers or Ruby versions
-* Moving beyond the default Heroku stack with custom buildpacks
-* Dangers and mitigation of long-running requests
-* Extracting and optimizing background processes
-* Automating Continuous Integration (CI) and zero-downtime Continuous Deployment (CD)
-* Gracefully handling deployment failure and rollback
-* Automatic alerting when application performance degrades
-* Automatic database backups remote systems
-* Optimizing logging with distributed systems
-* How to apply these techniques with your actual applications
+* The Platform: How does Heroku work? How does that architecture affect your process?
+* Customizing Deployment: Tweak your tools, stack, and create a repeatable, reliable deployment process
+* Designing for Scale: More than turning up the dynos, how do you architect your application to take advantage of the platform?
+* When Things Go Wrong: Disaster will happen, here's how you prepare for it.
+* Lessons In Context: Explore your problem domain, your application, and find how to apply these concepts
 
 (( Contact Us to Schedule a Class at Your Company big button ))
 
