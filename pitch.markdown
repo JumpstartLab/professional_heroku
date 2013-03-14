@@ -1,22 +1,26 @@
 # Professional Heroku
 
-Heroku is a fantastic tool for provisioning and deploying applications quickly. But do you know how to design, monitor, and scale those applications?
+Heroku is a fantastic tool for provisioning and deploying applications quickly. But there's more to it than `heroku create myapp`. Do you know how to design, monitor, and scale those applications?
 
-In this course we'll build your skills and understandings of the Heroku platform, concepts and tools to improve your application for Heroku, and how to bring it all together.
+In this course we'll build your understandings of the platform architecture, explore tools and concepts to improve your application, and how to bring it all together.
 
 ## What You'll Learn
 
-In this training course, you'll use an actual Ruby/Rails application and learn:
+In this training course, you'll use an actual Ruby/Rails application and study:
 
+* How Heroku's architecture affects your application
+* The roles of dynos and background workers
 * Keeping private credentials private
-* Implementing multi-threaded web servers to mitigate long-running requests
+* Configuring your application for alternative web servers or Ruby versions
 * Moving beyond the default Heroku stack with custom buildpacks
+* Dangers and mitigation of long-running requests
+* Extracting and optimizing background processes
 * Automating Continuous Integration (CI) and zero-downtime Continuous Deployment (CD)
 * Gracefully handling deployment failure and rollback
-* Extracting and optimizing background processes
-* Automated alerting when application performance degrades
-* Automating database backups to S3 storage
+* Automatic alerting when application performance degrades
+* Automatic database backups remote systems
 * Optimizing logging with distributed systems
+* How to apply these techniques with your actual applications
 
 (( Contact Us to Schedule a Class at Your Company big button ))
 
@@ -65,7 +69,7 @@ Our instructors come to you and teach five full days 9AM to 4PM. We can accomoda
 ### Friday - Your Applications
 
 * Big picture Q&A
-* Dive into your code/application together
+* Dive into your applications together
 * What if we want to...?
 
 ## Pricing
@@ -81,3 +85,9 @@ The course is constructed and taught by our instructional team in collaboration 
 ## Guaranteed
 
 As with all our courses, Professional Heroku is backed by our 110% money-back guarantee.
+
+## More Than Heroku
+
+Jumpstart Lab offers training in fundamental, intermediate, and advanced levels of Ruby, Rails, JavaScript, jQuery, Backbone.js, ExtJS, HTML5/CSS3, and Git. 
+
+(( Contact Us to Schedule a Class at Your Company big button ))
